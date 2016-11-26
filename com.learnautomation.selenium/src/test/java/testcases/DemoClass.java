@@ -6,6 +6,8 @@ public class DemoClass {
 	{
 		System.out.println(System.getProperty("user.dir"));
 
+		
+		
 	}
 
 }
